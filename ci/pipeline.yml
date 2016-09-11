@@ -9,7 +9,7 @@ resources:
     source:
       api: https://api.run.pivotal.io
       username: liweinan0423@icloud.com
-      password: 6257072
+      password: '6257072'
       organization: william
       space: development
 
